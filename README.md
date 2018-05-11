@@ -1,2 +1,2 @@
-# api_access
-Postman Collections to Access the ArrowAI APIs
+# ArrowAI API Details
+This repository holds the list of Postman Collections to Access the ArrowAI APIs
